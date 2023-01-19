@@ -1349,7 +1349,7 @@
   box-shadow: -2px 0 0 0 rgba(0,0,0,0);
   text-shadow: rgba(var(---r),var(---g),var(---b),0);
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  margin: -484px 80px 60px auto;
+  margin: -401px 80px 60px auto;
   padding: 10px 16px;
 }
 
@@ -1379,7 +1379,7 @@
   }
 
   .u-section-6 .u-btn-1 {
-    margin-top: -523px;
+    margin-top: -456px;
     margin-right: 34px;
   }
 }
